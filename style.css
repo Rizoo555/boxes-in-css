@@ -1,5 +1,5 @@
 /* Box Dimensions */
-div{
+/* div{
     height: 200px;
     width: 200px;
     background-color: #bbbbaa;
@@ -10,4 +10,15 @@ div.khan{
 }
 p{
     width: 80%;
+} */
+
+/* Limiting Widths */
+td.description{
+    min-width: 450px;
+    max-width: 650;
+    text-align: left;
+    padding: 5px;
+    margin: 0px;
 }
+
+/* Limiting Height  */

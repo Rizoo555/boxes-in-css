@@ -1,0 +1,13 @@
+/* Box Dimensions */
+div{
+    height: 200px;
+    width: 200px;
+    background-color: #bbbbaa;
+}
+div.khan{
+    background-color: red;
+    
+}
+p{
+    width: 80%;
+}
